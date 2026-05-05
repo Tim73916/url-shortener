@@ -1,0 +1,5 @@
+config/local.yaml
+config/*.local.yaml
+storage/*.db
+storage/*.db-shm
+storage/*.db-wal
