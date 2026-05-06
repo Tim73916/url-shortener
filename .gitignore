@@ -1,5 +1,11 @@
 config/local.yaml
 config/*.local.yaml
+
+# Test files
+*.test
+coverage.out
+
+# Database
 storage/*.db
 storage/*.db-shm
 storage/*.db-wal
