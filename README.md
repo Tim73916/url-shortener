@@ -6,6 +6,9 @@
 
 **URL Shortener** — лёгкий и быстрый сервис сокращения ссылок на Go с веб-интерфейсом, REST API и SQLite.
 
+## Интерфейс
+<img width="535" height="552" alt="image" src="https://github.com/user-attachments/assets/5958f42e-fd96-4fc3-86d7-c6d1ff319557" />
+
 ---
 
 ## ✨ Возможности
